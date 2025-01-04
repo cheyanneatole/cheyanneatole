@@ -30,7 +30,7 @@ A couple noteworthy projects I have worked on:
 
 2. #### [PopTart Arena: Multiplayer Survivor Game](https://github.com/flashyash/Pop-Tart-Arena.git)
    Designed and implemented a real-time multiplayer game where players compete to survive in a dynamic arena.
-   - Tech Stack: TypeScript, Node.js, Socket.io, HTML/CSS
+   - Tech Stack: Unity, Python, HTML/CSS
    - Learnings: Real-time web development, multiplayer game mechanics, and server-client communication.
 
 3. #### [Igniting Change Through Compassion](https://github.com/JumboCode/IgnitingChange.git)
